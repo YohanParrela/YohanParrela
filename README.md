@@ -1,7 +1,6 @@
 # Hi 👋, I'm Yohan Parrela
 
-💻 Systems Development Student  
-🇧🇷 Brazil  
+💻 Systems Development Student at **ETEC** 🇧🇷 Brazil  
 
 I enjoy building projects, learning new technologies, and improving my programming skills.  
 Currently focused on **programming fundamentals, backend development, and cybersecurity**.
@@ -12,25 +11,23 @@ Currently focused on **programming fundamentals, backend development, and cybers
 
 ## 🌐 Where to find me
 
-
-
 <p>
   <a href="https://github.com/YohanParrela">
     <img src="https://img.shields.io/badge/GitHub-YohanParrela-181717?style=for-the-badge&logo=github" />
-    </a>
-     <a href="https://www.linkedin.com/in/yohan-parrela-928b28398">
-  <img src="https://img.shields.io/badge/Yohan_Parrela-181717?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0077B5">
-</a>
+  </a>
+  <a href="https://www.linkedin.com/in/yohan-parrela-928b28398">
+    <img src="https://img.shields.io/badge/Yohan_Parrela-181717?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0077B5">
+  </a>
 </p>
 
 ---
 
 ## 🧠 What I do
 
-- 💻 Systems Development student
+- 🎓 Systems Development student at **ETEC**
 - ☕ Learning Java and backend development
-- 🌐 Exploring web development
-- 🧠 Studying algorithms and problem solving
+- 🌐 Exploring web development (HTML, CSS, JavaScript)
+- 🧠 Studying algorithms and problem solving (C, C++, Python)
 - 🔐 Interested in Cybersecurity / Ethical Hacking
 - 🚀 Building projects to improve my skills
 
@@ -40,27 +37,17 @@ Currently focused on **programming fundamentals, backend development, and cybers
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
+### Backend / Lógica
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- ### DevOps & Tools
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
--->
 ---
 
 ## 🚀 Philosophy
